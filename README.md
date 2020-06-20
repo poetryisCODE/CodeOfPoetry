@@ -37,3 +37,4 @@ that code is a poem.
 Yet, let it be known
 the poem, too, is a code.
 ```
+— *by [Jesse Steele](https://github.com/JesseSteele/)*
